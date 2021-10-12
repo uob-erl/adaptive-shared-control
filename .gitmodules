@@ -7,3 +7,6 @@
 [submodule "husky"]
 	path = husky
 	url = https://github.com/uob-erl/husky.git
+[submodule "navigation"]
+	path = navigation
+	url = https://github.com/ros-planning/navigation.git
