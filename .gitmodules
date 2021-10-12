@@ -4,3 +4,6 @@
 [submodule "hrt_entropy"]
 	path = hrt_entropy
 	url = https://github.com/uob-erl/hrt_entropy.git
+[submodule "husky"]
+	path = husky
+	url = https://github.com/uob-erl/husky.git
